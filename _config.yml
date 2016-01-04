@@ -1,7 +1,7 @@
 name: KeniSueWho
 favicon: null
-layout_spectrum: 0.020443530986085534
-typography_spectrum: 0.5065425550565124
+layout_spectrum: 0.3796
+typography_spectrum: 0.32369
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.842305714963004
-  lightness: 0.4967055320739746
-  saturation: 0.5088964796159416
-  rhythmicContrast: 0.1927991125266999
+    - '#084780'
+    - '#141517'
+    - '#e2e9f1'
+    - '#b9a699'
+    - '#48829d'
+  brandStrength: 0.25
+  lightness: 0.75
+  saturation: 0.3125
+  rhythmicContrast: 0.5
 purpose: []
